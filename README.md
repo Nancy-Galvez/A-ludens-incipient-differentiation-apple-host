@@ -1,7 +1,9 @@
 # A-ludens-incipient-differentiation-apple-host
-Authors: Daniel Cerqueda-García1*, Daniel Piñero2*, Helena S. Hernández-Rosales2,Nancy Gálvez-Reyes2, Martín Aluja1
+
+Authors: Daniel Cerqueda-García1*, Daniel Piñero2*, Helena S. Hernández-Rosales2, Nancy Gálvez-Reyes2, Martín Aluja1
 
 1Red de Manejo Biorracional de Plagas y Vectores, Instituto de Ecología, AC–INECOL, Clúster Científico y Tecnológico BioMimic, Xalapa, Mexico.
+
 2Departamento de Ecología Evolutiva, Instituto de Ecología, Universidad Nacional Autónoma de México, Mexico City, Mexico.
 
 ## Description
